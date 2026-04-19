@@ -1,43 +1,43 @@
-# Cinema Seat Reservation System
+# Sistema de Reserva de Assentos de Cinema
 
-A simple Python console application for managing seat reservations in a cinema.
+Um aplicativo simples de console em Python para gerenciar reservas de assentos em um cinema.
 
-## Features
+## Funcionalidades
 
-- Display available and occupied seats
-- Reserve a seat
-- Cancel a reservation
-- Show free seats
-- Calculate summary of seats
-- Persistent storage of seat data using JSON
+- Exibir assentos disponíveis e ocupados
+- Reservar um assento
+- Cancelar uma reserva
+- Mostrar assentos livres
+- Calcular resumo dos assentos
+- Armazenamento persistente dos dados dos assentos usando JSON
 
-## Installation
+## Instalação
 
-1. Ensure you have Python 3.14+ installed.
-2. Clone the repository.
-3. Install dependencies: `uv sync`
-4. For development: `uv sync --group dev`
+1. Certifique-se de ter o Python 3.14+ instalado.
+2. Clone o repositório.
+3. Instale as dependências: `uv sync`
+4. Para desenvolvimento: `uv sync --group dev`
 
-## How to Run
+## Como Executar
 
-Run the application: `uv run python main.py`
+Execute o aplicativo: `uv run python main.py`
 
-## Testing
+## Testes
 
-Run tests: `uv run pytest`
+Execute os testes: `uv run pytest`
 
-## Project Structure
+## Estrutura do Projeto
 
-- `main.py`: Main application code with Cinema class
-- `tests/`: Unit tests
-- `seats.json`: Persistent seat data (created automatically)
+- `main.py`: Código principal do aplicativo com a classe Cinema
+- `tests/`: Testes unitários
+- `seats.json`: Dados persistentes dos assentos (criado automaticamente)
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - Python 3.14+
-- JSON for data persistence
-- Pytest for testing
+- JSON para persistência de dados
+- Pytest para testes
 
-## License
+## Licença
 
-This project is open source. Feel free to contribute!
+Este projeto é de código aberto. Sinta-se à vontade para contribuir!
