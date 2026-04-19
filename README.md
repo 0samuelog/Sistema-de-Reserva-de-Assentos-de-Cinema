@@ -2,7 +2,7 @@
 
 ### 🛡️ Aspirante a Analista de Cibersegurança | Entusiasta de Red & Blue Team
 
-Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco em entender tanto as táticas ofensivas quanto as defesas de rede. Sou um entusiasta de Linux e busco constantemente aprimorar minhas habilidades em automação com scripts e análise de vulnerabilidades.
+Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco em entender tanto as táticas ofensivas quanto as defesas de rede. Sou um entusiasta de Linux e busco constantemente aprimorar minhas habilidades.
 
 ---
 
@@ -29,12 +29,28 @@ Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco e
 
 ---
 
- 📂 Meus Projetos em Destaque
-Sistema de Reserva de Assentos de Cinema:  Seleção de Assentos Validação de Ocupação Cálculo de Receita Visualização do Mapa da Sala).
-(Estou comecando agora esse é so o primeiro de muitos projetos rasuavelmente grandes estou sempre disposto a aprender)
+## 📂 Meus Projetos em Destaque
+
+### Sistema de Reserva de Assentos de Cinema 🎬
+
+Um sistema completo para gerenciar reservas de assentos em uma sala de cinema com funcionalidades como:
+- ✅ Seleção de Assentos
+- ✅ Validação de Ocupação
+- ✅ Cálculo de Receita
+- ✅ Visualização do Mapa da Sala
+
+(Estou começando agora, esse é só o primeiro de muitos projetos razoavelmente grandes. Estou sempre disposto a aprender!)
 
 ---
 
-### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0samuelog/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0samuel.a021@gmail.com)
+## 🚀 Como Executar o Projeto - Tutorial Passo a Passo
+
+### 📋 Pré-requisitos
+
+Antes de começar, certifique-se de ter os seguintes requisitos instalados em seu sistema:
+
+1. **Python 3.8+** - [Baixar aqui](https://www.python.org/downloads/)
+2. **Git** - [Baixar aqui](https://git-scm.com/downloads)
+3. **uv** (Gerenciador de pacotes) - Instale com:
+   ```bash
+   pip install uv
