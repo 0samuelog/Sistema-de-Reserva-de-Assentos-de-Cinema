@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Samuel! 👋
 
 ### 🛡️ Aspirante a Analista de Cibersegurança | Entusiasta de Red & Blue Team
 
@@ -30,11 +30,8 @@ Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco e
 ---
 
 ### 📂 Meus Projetos em Destaque
-* **[Nome do Projeto]:** Breve descrição de um script Python ou projeto de segurança (ex: "Scanner de portas simples em Python").
-* **[Nome do Projeto]:** Descrição de outro projeto (ex: "Laboratório de rede virtualizada com VMs").
-
+**[Sistema-de-Reserva-de-Assentos-de-Cinema: ** Seleção de Assentos Validação de Ocupação Cálculo de Receita Visualização do Mapa da Sala).
 ---
-
 ### 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub de [SeuUsuario]](https://github-readme-stats.vercel.app/api?username=[SeuUsuario]&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuUsuario]&layout=compact&theme=tokyonight)
