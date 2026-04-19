@@ -31,10 +31,7 @@ Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco e
 
 ### 📂 Meus Projetos em Destaque
 **[Sistema-de-Reserva-de-Assentos-de-Cinema: ** Seleção de Assentos Validação de Ocupação Cálculo de Receita Visualização do Mapa da Sala).
----
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de [SeuUsuario]](https://github-readme-stats.vercel.app/api?username=[SeuUsuario]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuUsuario]&layout=compact&theme=tokyonight)
+(Estou comecando agora esse é so o primeiro de muitos projetos rasuavelmente grandes estou sempre disposto a aprender)
 
 ---
 
